@@ -9,3 +9,5 @@ git push origin master : 깃에 업로드!
 - [ ] git commit -m ""
 - [ ] git push origin master
 - [ ] git remote ~~~~
+
+  level up Git
